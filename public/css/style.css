@@ -1,0 +1,73 @@
+
+body {
+  background-color: #ffffff;
+}
+
+
+.btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: rgba(0,0,0,0.2);
+  }
+  
+  .btn-social {
+    position: relative;
+    padding-left: 44px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .btn-social:hover {
+    color: #eee;
+  }
+  
+  .btn-social :first-child {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    
+    padding: 7px;
+    font-size: 1.6em;
+    text-align: center;
+    border-right: 1px solid rgba(0,0,0,0.2);
+  }
+
+  .img-128 {
+    width: 128px !important;
+    height: 128px !important;
+  }
+
+
+  .footer .container{
+    background-color: #275879;
+  }
+
+  ul.nav li a, ul.nav li a:visited {
+    color: #fff !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #fff !important;
+}
+
+ul.nav li.active a {
+    color: #fff !important;
+}
+
+.t-bl{
+  color:#275879 !important;
+}
+
+.bg-bl{
+  background-color:#275879 !important;
+}
+
+.t-orange-red{
+  color: #ac3729;
+}
+
+
+
